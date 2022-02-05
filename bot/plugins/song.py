@@ -15,8 +15,7 @@ def time_to_seconds(time):
 
 
 @app.on_message(filters.command(['song']))
-def song(client, message):
-    await AddUserToDatabase(client, message)
+async def song(_, message: Message):
     FSub = await ForceSub(client, message)
     if FSub == 400:
         return
