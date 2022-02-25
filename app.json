@@ -8,7 +8,7 @@
         "szbot"
     ],
     "website": "http://szbots.ml",
-    "repository": "https://github.com/youtubeslgeekshow/sz-rose-bot",
+    "repository": "https://github.com/zigzag85/sz-rose-bot",
     "success_url": "https://t.me/SL_bot_zone",
     "env": {
         "BOT_TOKEN": {
