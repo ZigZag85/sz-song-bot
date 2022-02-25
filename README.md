@@ -10,4 +10,4 @@
 ★ Youtube Tag Finder
 ★ Inline Youtube Search
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/szsupunma/sz-song-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zigzag85/sz-song-bot)
